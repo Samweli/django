@@ -49,6 +49,7 @@ extensions = [
     "sphinx.ext.intersphinx",
     "sphinx.ext.autosectionlabel",
     "sphinx.ext.linkcode",
+    "sphinx_copybutton",
 ]
 
 # AutosectionLabel settings.
